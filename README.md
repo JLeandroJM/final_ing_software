@@ -1,6 +1,6 @@
 # final_ing_software
 
-# PORFE DISCULPE POR PUSHEAR EL VENV :(
+# PROFE DISCULPE POR PUSHEAR EL VENV :(
 
 # test
 
